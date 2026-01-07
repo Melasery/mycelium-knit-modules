@@ -22,4 +22,3 @@ This project investigates the use of machine-knitted textiles as stay-in-place f
 Contains the parametric generation scripts and machine code (knitout) for the standard "16-cubits" module family.
 
 ---
-*Part of the Computational Textiles portfolio.*
